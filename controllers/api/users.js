@@ -9,6 +9,7 @@ async function create(req, res) {
     res.json(token);
   } catch (error) {
     res.status(400).json(error);
+    console.log(error)
   }
 }
 
