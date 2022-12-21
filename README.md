@@ -28,6 +28,10 @@ Handy starter code for a comprehensive MERN-Stack project including token-based 
     - <code>DATABASE_URL=<your_DB_connection></code>
 5. Delete component folders as needed
 
+### Run application
+1. <code>npm start</code> to run browser 
+2. <code>nodemon</code> to run server
+
 Completed Dec 2022.     
 
 
